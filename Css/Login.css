@@ -1,0 +1,6 @@
+.tombol-button-login{
+    border-radius: 40px;
+    background-color: #485145;
+    -webkit-box-shadow: 3px 3px 10px #b8b9be, 6px 6px 6px #485145;
+  box-shadow: 3px 3px 10px #b8b9be, 6px 6px 6px #485145;
+}

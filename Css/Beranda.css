@@ -1,0 +1,21 @@
+.tombol-button-register{
+    border-radius: 40px;
+    background-color: #485145;
+    -webkit-box-shadow: 3px 3px 10px #b8b9be, 6px 6px 6px #485145;
+  box-shadow: 3px 3px 10px #b8b9be, 6px 6px 6px #485145;
+}
+
+.jumbotron {
+    background-color: #485145;
+}
+
+.tombol-button1 {
+    border-radius: 40px;
+  background-color: #c1deba;
+}
+
+.tombol-button2 {
+    border-radius: 40px;
+  background-color: #c1deba;
+  color: #ffffff;
+}
